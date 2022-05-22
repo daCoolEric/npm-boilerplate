@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Eric Kodzo Ayi",
+	"author": "Eric Ayi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
